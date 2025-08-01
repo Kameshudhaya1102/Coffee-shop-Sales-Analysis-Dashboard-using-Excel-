@@ -56,10 +56,3 @@ The dataset includes the following columns:
 
 ---
 
-## 🖥️ Excel Dashboard Preview
-
-> 📸 Include screenshots here (optional if uploading dashboard visuals)
-
-<p align="center">
-  <img src="Screenshots/dashboard.png" width="600" alt="Dashboard Screenshot">
-</p>
